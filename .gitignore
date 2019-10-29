@@ -1,2 +1,5 @@
 *.root
 *.zip
+
+MINERvA_nu/iMinuit/myPlots/*
+MINERvA_nu/iMinuit/myMatrices/*
